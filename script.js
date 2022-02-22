@@ -1,4 +1,4 @@
-let number = parseInt(prompt("How many FizzBuzz numbers would you like to see in the console?"));
+let number = parseInt(prompt("How many FizzBuzz numbers would you like to see?"));
 let fizzBuzz = [];
 
 for (i = 1; i > 0; i++) {
